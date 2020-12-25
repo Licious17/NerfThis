@@ -11,7 +11,7 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle.forge'
 apply plugin: "kotlin"
 
-version = "1.6"
+version = "1.7"
 
 sourceCompatibility = targetCompatibility = "1.8"
 compileJava
